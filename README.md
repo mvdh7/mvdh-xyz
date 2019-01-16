@@ -2,7 +2,7 @@
 
 <table><tr>
 
-<td><strong>Blog post</strong></td>
+<td><strong>Blog</strong></td>
 <td><strong>Code</strong></td>
 
 </tr><tr>
