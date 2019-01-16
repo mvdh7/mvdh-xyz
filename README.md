@@ -7,7 +7,7 @@
 
 </tr><tr>
 
-<td>[Speedy variable switching](https://mvdh.xyz/2019/01/11/speedy-variable-switching/)</td>
-<td>[speedyVariableSwitching.m](https://github.com/mvdh7/mvdh-xyz/blob/master/matlab/speedyVariableSwitching.m)</td>
+<td><a href="https://mvdh.xyz/2019/01/11/speedy-variable-switching/">Speedy variable switching</a></td>
+<td><a href="https://github.com/mvdh7/mvdh-xyz/blob/master/matlab/speedyVariableSwitching.m">speedyVariableSwitching.m</a></td>
 
 </tr></table>
