@@ -10,4 +10,7 @@ patch(b0x([1 2 2 1 1]),fylim([1 1 2 2 1]),c, 'edgecolor','none', ...
 patch(fxlim([1 2 2 1 1]),b0y([1 1 2 2 1]),c, 'edgecolor','none', ...
     'facealpha',0.1)
 
+% plot(fxlim,y(1)*[1 1], 'color',c)
+% plot(x(1)*[1 1],fylim, 'color',c)
+
 end %function
