@@ -1,6 +1,6 @@
 types = {'initial' 'constant_Hconc' 'constant_pH' 'same_baseline'};
 
-type = types{4};
+type = types{1};
 
 filename = ['figures/pHvar_' type '.gif'];
 DelayTime = 0.04;
@@ -9,8 +9,8 @@ fx = linspace(1e-9,1e-7,200);
 fy = -log10(fx);
 
 % Set colours
-c0 = [1 0.1 0];
-c1 = [0 0.5 1];
+c1 = [1 0.1 0];
+c0 = [0 0.5 1];
 
 % 
 FTOT = 80;
