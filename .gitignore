@@ -1,2 +1,5 @@
 # MATLAB
 *.asv
+
+# Figures
+*.gif
