@@ -1,4 +1,5 @@
 function pHvar_aniblob(x,y,c,fxlim,fylim,F)
+% Used by pHvariability.m script
 
 plot(x,y, 'color',c, 'linewidth',2)
 scatter(x(F),y(F),50,c,'filled')

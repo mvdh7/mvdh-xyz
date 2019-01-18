@@ -66,8 +66,8 @@ if strcmp(type,'same_baseline')
 end %if
 
 % Labels
-xlabel(['[H^+] / ' grk('m') 'mol\cdotkg^{' endash '1}'])
-ylabel([endash 'log_{10} [H^+] ? pH'])
+xlabel(['[H^+] / ' char(956) 'mol\cdotkg^{' char(8211) '1}'])
+ylabel([char(8211) 'log_{10} [H^+] ? pH'])
 
 % Axis settings
 setaxes(gca,12)
