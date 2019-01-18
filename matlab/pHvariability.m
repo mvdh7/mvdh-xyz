@@ -1,10 +1,14 @@
-types = {'initial' 'constant_Hconc' 'constant_pH' 'same_baseline'};
+% Requires function pHvar_aniblob
 
+% Decide what to plot
+types = {'initial' 'constant_Hconc' 'constant_pH' 'same_baseline'};
 type = types{1};
 
+% gif settings
 filename = ['figures/pHvar_' type '.gif'];
 DelayTime = 0.04;
 
+% Background pH line
 fx = linspace(1e-9,1e-7,200);
 fy = -log10(fx);
 
@@ -12,7 +16,7 @@ fy = -log10(fx);
 c1 = [1 0.1 0];
 c0 = [0 0.5 1];
 
-% 
+% Create seasonal change arrays
 FTOT = 80;
 swave = sin(0:(2*pi/FTOT):(2*pi-2*pi/FTOT));
 
@@ -37,6 +41,7 @@ switch type
         
 end %switch
 
+% Draw figure
 for F = 1:FTOT
 
 fig = figure(1); clf; hold on
