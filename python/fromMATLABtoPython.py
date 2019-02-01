@@ -1,6 +1,6 @@
 #%% Indexing
-x = ['a', 'b', 'c']
-print(x[1]) # prints out 'b'
+letters = ['a', 'b', 'c']
+print(letters[1]) # prints out 'b'
 
 #%% The perils of =
 
