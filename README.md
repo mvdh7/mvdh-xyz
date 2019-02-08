@@ -17,4 +17,8 @@
 <td><a href="https://mvdh.xyz/2019/02/01/matlab-to-python-1/">From MATLAB to Python: reflections after a year</a></td>
 <td><a href="https://github.com/mvdh7/mvdh-xyz/blob/master/matlab/fromMATLABtoPython.m">fromMATLABtoPython.m</a>, <a href="https://github.com/mvdh7/mvdh-xyz/blob/master/python/fromMATLABtoPython.py">fromMATLABtoPython.py</a></td>
 
+</tr><tr>
+<td><a href="https://mvdh.xyz/2019/02/08/matlab-to-python-2/">From MATLAB to Python: package power</a></td>
+<td><a href="https://github.com/mvdh7/mvdh-xyz/blob/master/matlab/fromMATLABtoPython2.m">fromMATLABtoPython2.m</a>, <a href="https://github.com/mvdh7/mvdh-xyz/blob/master/python/fromMATLABtoPython2.py">fromMATLABtoPython2.py</a></td>
+
 </tr></table>
