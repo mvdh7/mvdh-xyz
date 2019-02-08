@@ -5,6 +5,7 @@ disp(N(1,1,1,1,1,1,1)) % prints out 15. I could go on
 %% Accessing rows and columns
 x = [1 2 3; 4 5 6];
 disp(x(2))   % prints out the second value i.e. 4
+disp(x(2,1)) % prints out row 2 column 1 i.e. 4
 disp(x(2,:)) % prints out the second row i.e. [4 5 6]
 disp(x(:,2)) % prints out the second column i.e. [2; 5]
 disp(x(:,2,:,:)) % works just like the previous one
@@ -19,6 +20,9 @@ v = A .* b; % returns  [9 18; 30 40]
 % x defined in earlier example
 disp(numel(x)) % returns 6
 disp( size(x)) % returns [2 3]
+
+%% Sequences
+disp(0:2:10) % [0 2 4 6 8 10]
 
 %% Fitting
 

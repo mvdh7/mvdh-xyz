@@ -2,6 +2,7 @@
 import numpy as np
 x = np.array([[1, 2, 3], [4, 5, 6]])
 print(x[1])   # prints out the second row i.e. [4, 5, 6]
+print(x[1,0]) # prints out row 1 column 0 i.e. 4
 print(x[1,:]) # works just like the previous one
 print(x[:,1]) # prints out the second column i.e. [[2], [5]]
 #print(x[:,1,:,:]) # are you mad?
