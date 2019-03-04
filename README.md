@@ -24,6 +24,6 @@
 </tr><tr>
 </tr><tr>
 <td><a href="https://mvdh.xyz/2019/03/04/snake-charming-with-matlab/">Snake charming with MATLAB</a></td>
-<td><a href="https://github.com/mvdh7/mvdh-xyz/blob/master/matlab/snakeCharming.m">snakeCharming.m</a>, <a href="https://github.com/mvdh7/mvdh-xyz/blob/master/matlab/snakeCharming.py">snakeCharming.py</a></td>
+<td><a href="https://github.com/mvdh7/mvdh-xyz/blob/master/matlab/snakeCharming.m">snakeCharming.m</a>, <a href="https://github.com/mvdh7/mvdh-xyz/blob/master/python/snakeCharming.py">snakeCharming.py</a></td>
 
 </tr></table>
